@@ -1,0 +1,26 @@
+ Byte
+The byte data type can store whole numbers from -128 to 127. This can be used instead of int or other integer types to save memory when you are certain that the value will be within -128 and 127:
+
+ Short
+The short data type can store whole numbers from -32768 to 32767:
+
+ Int
+The int data type can store whole numbers from -2147483648 to 2147483647. In general, and in our tutorial, the int data type is the preferred data type when we create variables with a numeric value.
+
+Long
+The long data type can store whole numbers from -9223372036854775808 to 9223372036854775807. This is used when int is not large enough to store the value. Note that you should end the value with an "L":
+
+ Float
+The float data type can store fractional numbers from 3.4e−038 to 3.4e+038. Note that you should end the value with an "f":
+
+ Double
+The double data type can store fractional numbers from 1.7e−308 to 1.7e+308. Note that you should end the value with a "d":
+
+ Booleans
+A boolean data type is declared with the boolean keyword and can only take the values true or false:
+
+ Characters
+The char data type is used to store a single character. The character must be surrounded by single quotes, like 'A' or 'c':
+
+ Strings
+The String data type is used to store a sequence of characters (text). String values must be surrounded by double quotes:
